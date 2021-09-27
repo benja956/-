@@ -1,4 +1,4 @@
-# -
+# randomweibo
 利用官方API定时随机图片发送到微博
 随机抽取图片并发送至微博
 mian.py request及写入日志
